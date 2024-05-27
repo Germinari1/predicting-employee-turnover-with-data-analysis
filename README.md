@@ -22,3 +22,12 @@ To run this project, you need to install the following Python libraries:
 
 **Saving Models**
 - pickle
+  
+To install the required packages from the `requirements.txt` file, follow these steps:
+
+1. Open your terminal or command prompt.
+
+2. Install the required packages:
+```txt
+pip install -r requirements.txt
+```
