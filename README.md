@@ -31,3 +31,4 @@ To install the required packages from the `requirements.txt` file, follow these 
 ```txt
 pip install -r requirements.txt
 ```
+After installing the requirements, you can run each cell in the Jupyter notebook.
